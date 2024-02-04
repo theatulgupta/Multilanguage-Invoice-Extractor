@@ -20,9 +20,9 @@ Unlock the power of language-agnostic invoice processing with Multilanguage Invo
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/theatulgupta/Multilanguage-Invoice-Extractor.git
-```
+   ```bash
+   git clone https://github.com/theatulgupta/Multilanguage-Invoice-Extractor.git
+   ```
 
 2. Navigate to the project directory:
 
